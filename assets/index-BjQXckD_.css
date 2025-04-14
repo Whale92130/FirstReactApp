@@ -1,0 +1,1 @@
+ul{display:flex;justify-content:center;align-items:center;list-style-type:none;gap:2rem;margin:0;padding:0;flex-wrap:wrap}li a{color:green;text-decoration:none;padding:.5rem 1rem}.myCard{border:1px solid green;border-radius:10px;box-shadow:5px 5px 5px #d3d3d3;padding:20px;margin:10px;text-align:center;display:inline-block}
